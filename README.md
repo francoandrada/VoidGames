@@ -19,5 +19,5 @@
 - [ ] Sequelize - Postgres
 
 #### Para configurar la aplicación ⚡
-'npm install'
-'npm start'
+`npm install`
+`npm start`
