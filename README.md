@@ -10,7 +10,7 @@
 `npm install`
 `npm start`
 
-#### Project built with... 🛠
+#### Project built with ✨
 - [ ] React
 - [ ] Redux
 - [ ] Express
