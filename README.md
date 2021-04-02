@@ -1,7 +1,7 @@
 # Individual Project - Henry Videogames 🚀
 
 <p align="center">
-  <img height="200" src='https://i.pinimg.com/originals/6e/34/17/6e34172237af32d9717e49ef8546d241.jpg' />
+  <img height="200" src='https://s.clipartkey.com/mpngs/s/19-199558_game-on-video-games-characters-transparent.png' />
 </p>
 
 ## Objetivos del Proyecto
