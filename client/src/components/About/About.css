@@ -1,0 +1,21 @@
+.header .title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #6C6B75;
+}
+
+.header .credits {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #6C6B75;
+}
+
+.header img {
+    width: 280px; 
+    height: 100px;
+    margin-left: auto;
+    margin-top: 5px;
+    margin-right: auto;
+    display: inline-block;
+    text-align: left;
+}

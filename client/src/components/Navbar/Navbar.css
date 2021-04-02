@@ -1,0 +1,119 @@
+.navBar {
+    width: 100%;
+    height: 10vh;
+    background: radial-gradient(circle at 114.09% 20.12%, #76767b 0, #676670 50%, #585766 100%);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position:relative;
+    top: 0;
+    z-index: 1000;
+  }
+  
+  .navBar form {
+    height: 100%;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .navBar form input {
+      margin: 0;
+      padding: 2%;
+      height: 15%;
+      width: 40%;
+      border: none;
+      outline: none;
+  }
+  
+  .navBar form a {
+    width: 7.5%;
+    height: 35.3%;
+    margin: 0;
+    padding: 0;
+    background: #C5C3D6;
+    outline: none;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .navBar form a button {
+    width: 80%;
+    height: 80%;
+    background-color: transparent;
+    color: #F0F0F0;
+    border: none;
+  }
+
+  .navBar form a button:hover {
+    cursor: pointer;
+  }
+
+  .navBar .home {
+    width: 20%;
+    height: 100%;
+    margin-left: 2%;
+    margin-top: 2%;
+    display: inline-block;
+  }
+  
+  .navBar .home a {
+    text-decoration: none;
+    width: 55%;
+    height: 80%;
+    color:rgba(255, 255, 255, 255);
+    font-family: "Lato", sans-serif;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  
+  .navBar .home a h2:hover {
+    color:  #DCDAF0;
+  }
+  
+  .navBar .about {
+    width: 20%;
+    height: 100%;
+    margin-left: 2%;
+    margin-top: 2%;
+    display: inline-block;
+  }
+  
+  .navBar .about a {
+    text-decoration: none;
+    width: 55%;
+    height: 80%;
+    align-items: center;
+    color:rgba(255, 255, 255, 255);
+    font-family: "Lato", sans-serif;
+    justify-content: flex-start;
+  }
+  
+  .navBar .about a h2:hover {
+    color:#DCDAF0;
+  }
+
+  .navBar .create {
+    width: 20%;
+    height: 100%;
+    margin-left: 2%;
+    margin-top: 2%;
+    display: inline-block;
+  }
+  
+  .navBar .create a {
+    text-decoration: none;
+    width: 55%;
+    height: 80%;
+    align-items: center;
+    color:rgba(255, 255, 255, 255);
+    font-family: "Lato", sans-serif;
+    justify-content: flex-start;
+  }
+  
+  .navBar .create a h2:hover {
+    color:#DCDAF0;
+  }

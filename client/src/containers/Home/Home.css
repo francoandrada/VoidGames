@@ -1,0 +1,14 @@
+.home {
+width: 100%;
+display: flex;
+align-items: center;
+flex-direction: column;
+}
+
+.home .title h1 {
+color: #6C6B75;
+width: 100%;
+height: 50px;
+margin-top: 2%;
+align-items: center;
+}

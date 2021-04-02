@@ -1,0 +1,16 @@
+.Loading {
+    margin-top: 100px;
+}
+
+.Loading h2 {
+    color: gray;
+    margin-bottom: 5px;
+ }
+
+.Loading img {
+    width: 100px; 
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align:middle;
+}

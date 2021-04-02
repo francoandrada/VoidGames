@@ -1,0 +1,18 @@
+.notFound {
+    display: table-cell;
+    text-align: center;
+}
+
+.notFound h1 h3 {
+    display: inline-block;
+    text-align: left;
+}
+
+.notFound img {
+    width: 100px; 
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    text-align: left;
+}
