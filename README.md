@@ -1,7 +1,7 @@
 # Individual Project - Henry Videogames 🚀
 
 <p align="center">
-  <img height="200" src='https://s.clipartkey.com/mpngs/s/19-199558_game-on-video-games-characters-transparent.png' />
+  <img height="200" src='https://cdn02.nintendo-europe.com/media/images/08_content_images/support_6/parents_1/CI16_ParentsSection_IntroductionToNintendo_NintendoCharacters_image950w.png' />
 </p>
 
 ## Objetivos del Proyecto
