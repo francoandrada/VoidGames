@@ -18,6 +18,6 @@
 - [ ] Express
 - [ ] Sequelize - Postgres
 
-####Para configurar la aplicación ⚡
-´npm install´
-´npm start´
+#### Para configurar la aplicación ⚡
+'npm install'
+'npm start'
